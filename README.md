@@ -89,11 +89,9 @@ Visit 👉 [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 ## 🖼️ Output Screenshots
 
-👉 Upload your screenshots inside the `images/` folder and update their names here.
-
 ### 🌐 Homepage UI
 
-![App UI](images/homepage.png)
+![App UI](Screenshot from 2025-09-27 12-33-38.png)
 
 ### 📊 Prediction Result
 
