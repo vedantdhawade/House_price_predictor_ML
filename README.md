@@ -91,11 +91,11 @@ Visit 👉 [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 
 ### 🌐 Homepage UI
 
-![App UI](Screenshot from 2025-09-27 12-33-38.png)
+![App UI](image1.png)
 
 ### 📊 Prediction Result
 
-![Prediction Output](images/prediction.png)
+![Prediction Output](image2.png)
 
 ---
 
